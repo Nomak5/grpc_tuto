@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+bin/
+obj/
+packages/
+x64/
+Debug/
+Release/
+__pycache__/
+logs/
