@@ -42,6 +42,7 @@ namespace GreeterClient
             }
             
             channel.ShutdownAsync().Wait();
+
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
